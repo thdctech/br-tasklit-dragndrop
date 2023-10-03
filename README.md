@@ -1,5 +1,11 @@
 ## About the article
 
+### Demo
+
+<video src="Drag%20and%20drop%20testing.mp4" controls title="Title"></video>
+
+### Content
+
 **Introduction:** An overview of the importance of drag and drop functionality in web applications.
 
 **Real-World Use Cases:** Examples of projects that can benefit from drag and drop functionality, including task management apps, e-commerce customization, and content management systems.
