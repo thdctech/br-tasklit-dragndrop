@@ -2,7 +2,7 @@
 
 ### Demo
 
-<video src="Drag%20and%20drop%20testing.mp4" controls title="Title"></video>
+<video src="Drag%20and%20drop%20testing.mp4" controls title="Title" style="max-width: 730px;"></video>
 
 ### Content
 
